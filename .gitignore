@@ -1,0 +1,26 @@
+# =====================
+# Global
+# =====================
+*.log
+*.tmp
+*.bak
+*~
+.DS_Store
+
+# =====================
+# LibreWolf
+# =====================
+# NO subir perfiles completos
+librewolf/**/cookies.sqlite
+librewolf/**/places.sqlite
+librewolf/**/favicons.sqlite
+librewolf/**/logins.json
+librewolf/**/key*.db
+librewolf/**/sessionstore*.jsonlz4
+librewolf/**/storage/
+librewolf/**/cache/
+librewolf/**/crashes/
+
+# Firefox / LibreWolf internos
+librewolf/**/prefs.js
+librewolf/
