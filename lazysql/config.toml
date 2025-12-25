@@ -1,0 +1,31 @@
+ConfigFile = '/home/romeo188/.config/lazysql/config.toml'
+
+[application]
+DefaultPageSize = 300
+DisableSidebar = false
+SidebarOverlay = false
+MaxQueryHistoryPerConnection = 100
+
+[[database]]
+Name = 'localIglepay'
+URL = 'mysql://iglepay:iglepay.com%23@127.0.0.1:3306/IglePayDB2'
+Provider = 'mysql'
+Username = ''
+Password = ''
+Hostname = ''
+Port = ''
+DBName = 'IglePayDB2'
+URLParams = ''
+Commands = []
+
+[[database]]
+Name = 'IglePayProd'
+URL = 'mysql://iglepay:iglepay.com%23@127.0.0.1:3336/IglePayDB'
+Provider = 'mysql'
+Username = ''
+Password = ''
+Hostname = ''
+Port = ''
+DBName = 'IglePayDB'
+URLParams = ''
+Commands = []

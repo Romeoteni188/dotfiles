@@ -1,0 +1,19 @@
+# GENERAL SETTINGS
+set window-title-basename false
+set statusbar-home-tilde true
+set selection-clipboard clipboard
+
+# LAYOUT SETTINGS
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+#set show-scrollbars false
+
+# COLOR SETTINGS
+set highlight-transparency 1
+
+# QUALITY & USABILITY IMPROVEMENTS
+set adjust-open "width"
+set smooth-scroll true
+set incremental-search true
+set continuous true
+set render-loading true

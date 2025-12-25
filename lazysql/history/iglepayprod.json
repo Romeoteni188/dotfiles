@@ -1,0 +1,6 @@
+[
+  {
+    "QueryText": "SELECT * FROM `IglePayDB`.`tb_asistencia` WHERE idasistencia LIMIT 0, 300",
+    "Timestamp": "2025-11-04T00:07:11.309773655Z"
+  }
+]

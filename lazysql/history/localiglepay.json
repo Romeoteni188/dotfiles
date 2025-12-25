@@ -1,0 +1,18 @@
+[
+  {
+    "QueryText": "SELECT * FROM `IglePayDB2`.`tb_familias` WHERE idfamilia LIMIT 0, 300",
+    "Timestamp": "2025-11-01T21:39:22.348334142Z"
+  },
+  {
+    "QueryText": "UPDATE `IglePayDB2`.`tb_familias` SET `nombreFamilia` = 'Chopen Bol' WHERE `idfamilia` = '11'",
+    "Timestamp": "2025-11-01T21:33:22.7022187Z"
+  },
+  {
+    "QueryText": "UPDATE `IglePayDB2`.`tb_actividades` SET `titulo` = 'Ventas Frutas Verdes' WHERE `idActividad` = '2'",
+    "Timestamp": "2025-11-01T21:30:03.560813128Z"
+  },
+  {
+    "QueryText": "UPDATE `IglePayDB2`.`tb_actividades` SET `titulo` = 'Ventas   Frutas Verdes' WHERE `idActividad` = '2'",
+    "Timestamp": "2025-11-01T21:24:41.852638836Z"
+  }
+]
