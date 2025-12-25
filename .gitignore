@@ -11,10 +11,3 @@ viewnior/
 vlc/
 wireshark/
 yay/
-
-# nvim (si luego lo agregas)
-#**/nvim/.git/
-#**/nvim/lazy-lock.json
-#**/nvim/session/
-#**/nvim/swap/
-#**/nvim/undo/
